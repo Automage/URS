@@ -125,7 +125,7 @@ class Export():
     ### Get filename extension.
     @staticmethod
     def _get_filename_extension(f_name, f_type):
-        dir_path = "../scrapes/%s" % Global.date
+        dir_path = "/Users/Pranav/Projects/WSBScraper/scrapes/%s" % Global.date
 
         return dir_path + "/%s.json" % f_name if f_type == Global.eo[1] else \
             dir_path + "/%s.csv" % f_name

@@ -1,7 +1,7 @@
 __pycache__/
 env/*
 .vscode/*
-
+urs/Credentials.py
 scrapes/*
 
 URS.egg-info/*

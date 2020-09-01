@@ -3,11 +3,11 @@
 #===============================================================================
 
 API = {
-    "client_id": "14_CHAR_HERE",        # Personal use script (14 characters).
-    "client_secret": "27_CHAR_HERE",    # Secret key (27 characters).
+    "client_id": "Ctpdn-8mp1YJpA",        # Personal use script (14 characters).
+    "client_secret": "so-idTdOegEnegEJsf1zzYW5fZs",    # Secret key (27 characters).
 
-    "user_agent": "APP_NAME_HERE",      # App name.
+    "user_agent": "Stock Scrapper",      # App name.
 
-    "username": "REDDIT_USERNAME_HERE", # Reddit username.
-    "password": "REDDIT_PASSWORD_HERE"  # Reddit password.
+    "username": "The_Pman", # Reddit username.
+    "password": "pi3.14159pi"  # Reddit password.
 }
